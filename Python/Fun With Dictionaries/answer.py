@@ -30,3 +30,7 @@ test = {
     'd':{1,2,3,4,5}}
 
 def make_tree()
+
+class Node:
+
+    def __init__()
