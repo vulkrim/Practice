@@ -1,6 +1,6 @@
 complete = {
-        'Award Budget Cuts':'find_grants_cap',
-        'Flatten a Dictionary':'flatten_dictionary',
-        'Number of Paths':'num_of_paths_to',
-        'Sales Path':'get_cheapest_cost'
+        'awardBudgetCuts':'find_grants_cap',
+        'flattenDictionary':'flatten_dictionary',
+        'numberOfPaths':'num_of_paths_to',
+        'salesPath':'get_cheapest_cost'
         }
